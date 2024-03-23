@@ -5,7 +5,7 @@
 
 Predarea si evaluarea aplicatiilor de laborator se va realiza prin intermediul `github classroom`. Exista un singur `assigment` creat pentru toate cele 6 laboratoare de lucru. Fiecare student va incarca in repository-ul propriu fisirele sursa si `Makefile`-urile, organizate in directoare -- cate un director pentru fiecare problema (vezi sectiunea urmatoare). **_!!! NU INCARCATI ARHIVE !!!_**
 
-### Observatii notare
+### Observatii notare vhfhfyu
 
 Incepand cu **_laboratorul al doilea_**, studentii trebuie sa incarce **cel putin o solutie intermediara** pentru oricare dintre problemele propuse **_in interval de maxim o saptamana_**. Odata incarcata aceasta tentativa intermediara de rezolvare, studentii pot reveni asupra temei si pot incarca solutia finala pana la **inceputul saptamanii a 14-a din semestru**. **_Commit-urile realizate incepand cu saptamana 14 NU vor fi luate in considerare_**.
 
