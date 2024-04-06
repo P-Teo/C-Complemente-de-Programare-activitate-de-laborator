@@ -1,0 +1,11 @@
+main2: main2.o 
+	clang -Wall main2.o -o main2
+	
+main2.o: main2.c 
+	clang -c -Wall main2.c
+	
+	
+.PHONY: clean
+clean:
+	rm -f*.o
+	rm main2

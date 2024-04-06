@@ -1,0 +1,11 @@
+parent: parent.o 
+	clang -Wall parent.o -o parent
+	
+parent.o: parent.c 
+	clang -c -Wall parent.c
+	
+	
+.PHONY: clean
+clean:
+	rm -f*.o
+	rm parent

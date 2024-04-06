@@ -1,0 +1,11 @@
+main1: main1.o 
+	clang -Wall main1.o -o main1
+	
+main1.o: main1.c 
+	clang -c -Wall main1.c
+	
+	
+.PHONY: clean
+clean:
+	rm -f*.o
+	rm main1
